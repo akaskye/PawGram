@@ -4,14 +4,14 @@
     "ForceUpdate": true,
     "Version": "v18",
     "Changelog": "What's New:\n\n• Bugs Fixed\n• Base Updated to 426.0.0.0.49\n• Ui Minor Improvements",
-    "GithubLink": "https://github.com/thepawdevs/PawGram",
+    "GithubLink": "https://github.com/pawjects/PawGram",
     "UpdateLink": "https://t.me/pawgramapp/200"
   },
   "Welcome": {
     "Show": true,
     "Title": "Welcome to PawGram 🐾",
     "Message": "PAWGRAM IS AN INSTAGRAM ALPHA FORK WITH BUILT-IN IOS EMOJIS AND AD FREE EXPERIENCE WITH LIMITLESS CUSTOMISATIONS!",
-    "GithubLink": "https://github.com/thepawdevs/PawGram",
+    "GithubLink": "https://github.com/pawjects/PawGram",
     "CommunityLink": "https://t.me/pawgramapp"
   }
 }

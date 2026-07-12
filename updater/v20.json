@@ -4,14 +4,14 @@
     "ForceUpdate": true,
     "Version": "v21",
     "Changelog": "What's New:\n\n• iOS Emojis Fixed\n• Base Update: 429.0.0.0.62\n• Minor Ui Improvements",
-    "GithubLink": "https://github.com/iamsky837/PawGram",
+    "GithubLink": "https://github.com/pawjects/PawGram",
     "UpdateLink": "https://t.me/pawgramapp"
   },
   "Welcome": {
     "Show": true,
     "Title": "Welcome to PawGram 🐾",
     "Message": "PAWGRAM IS AN INSTAGRAM ALPHA FORK WITH BUILT-IN IOS EMOJIS AND AD FREE EXPERIENCE WITH LIMITLESS CUSTOMISATIONS!\nJoin PawGram official community for latest updates!",
-    "GithubLink": "https://github.com/thepawdevs/PawGram",
+    "GithubLink": "https://github.com/pawjects/PawGram",
     "CommunityLink": "https://t.me/pawgramapp"
   }
 }

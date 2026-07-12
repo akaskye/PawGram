@@ -37,7 +37,7 @@ object pawdevs {
     private const val COLOR_TEXT_SECONDARY = "#9AA0A6"
     
     private const val PREFS_NAME = "PawGramPrefs"
-    private const val JSON_URL = "https://raw.githubusercontent.com/pawjects/PawGram/refs/heads/main/updater/v25.json"
+    private const val JSON_URL = "https://raw.githubusercontent.com/pawjects/PawGram/refs/heads/main/updater/vX.json"
 
     fun init(activity: Activity) {
         val prefs: SharedPreferences = activity.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
